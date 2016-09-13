@@ -2,12 +2,12 @@ my first file yeah son!
 
 lets add a new line
 
-so here is line one 
+so here is line 1 
 
-line two
+line 2
 
-line three
+line 3
 
-line four
+line 4
 
 
